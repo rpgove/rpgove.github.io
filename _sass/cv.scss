@@ -1,0 +1,68 @@
+.cv {
+  h1, h2 {
+    color: #111;
+    margin: 0;
+    font-weight: normal;
+  }
+
+  h2 {
+    font-size: 16px;
+    margin: 0 0 15px 0;
+  }
+
+  h3 {
+    font-size: 18px;
+    margin: 8px 0 0 0;
+    border-bottom: 1px solid #ddd;
+  }
+
+  h4 {
+    color: #333;
+    font-size: 14px;
+    margin: 8px 0 0 0;
+  }
+
+  .subheader {
+    font-size: 14px;
+    font-weight: normal;
+    text-decoration: none;
+  }
+
+  p {
+    margin: 0;
+  }
+
+  h3 + p {
+    margin: 8px 0 0 0;
+  }
+
+  ul {
+    margin: 4px 0 0 0;
+    padding-inline-start: 20px;
+  }
+
+  .pdf-download {
+    margin: 10px 0;
+  }
+}
+
+@media print {
+  body {
+    background: #fff;
+  }
+
+  nav {
+    display: none;
+  }
+
+  main {
+    border: none;
+    margin: 0;
+    max-width: none;
+    padding: 0;
+  }
+
+  .pdf-download {
+    display: none;
+  }
+}
