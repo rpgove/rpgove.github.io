@@ -6,7 +6,7 @@ permalink: /publications/
 
 # Journal articles
 
-Robert Gove. "Automatic Narrative Summarization for Visualizing Cyber Security Logs and Incident Reports." IEEE Transactions on Visualization and Computer Graphics 2022 (proc. VizSec 2021, best paper award). \[[pdf](https://osf.io/q5t79/)\] \[[osf](https://osf.io/ekzbp/)\]
+Robert Gove. "Automatic Narrative Summarization for Visualizing Cyber Security Logs and Incident Reports." IEEE Transactions on Visualization and Computer Graphics 2022 (proc. VizSec 2021, **best paper award**). \[[pdf](https://osf.io/q5t79/)\] \[[osf](https://osf.io/ekzbp/)\]
 
 Robert Gove. "A Random Sampling O(n) Force-calculation Algorithm for Graph Layouts." Computer Graphics Forum 2019 (proc. EuroVis). \[[pdf](https://osf.io/2vpe4/)\] \[[osf](https://osf.io/nb7m8/)\] \[[blog](https://twosixtech.com/graph-layout-by-random-vertex-sampling/)\]
 
@@ -20,15 +20,15 @@ Miranda K Hayworth, Nels G Johnson, Matthew E Wilhelm, Robert P Gove, Jackie D M
 
 # Conference papers
 
-Casey Haber and Robert Gove. "A Visualization Tool for Analyzing the Suitability of Software Libraries via Their Code Repositories." Visualization and Data Analysis 2020, best paper award. \[[pdf](https://osf.io/j28ev/)\] \[[blog](https://twosixtech.com/choosing-open-source-libraries-and-analyzing-risks/)\]
+Casey Haber and Robert Gove. "A Visualization Tool for Analyzing the Suitability of Software Libraries via Their Code Repositories." Visualization and Data Analysis 2020, **best paper award**. \[[pdf](https://osf.io/j28ev/)\] \[[blog](https://twosixtech.com/choosing-open-source-libraries-and-analyzing-risks/)\]
 
 Robert Gove. "Force-Directed Graph Layouts by Edge Sampling." Large Data Analytics and Visualization 2019. \[[pdf](https://osf.io/6q7ck/)\] \[[osf](https://osf.io/4ja29/)\]
 
-Robert Gove. "Gragnostics: Fast, Interpretable Features for Comparing Graphs." Information Visualization 2019, best paper award. \[[pdf](https://osf.io/hrmq3/)\]
+Robert Gove. "Gragnostics: Fast, Interpretable Features for Comparing Graphs." Information Visualization 2019, **best paper award**. \[[pdf](https://osf.io/hrmq3/)\]
 
 Robert Gove and Lauren Deason. "Visualizing Automatically Detected Periodic Network Activity." Visualization for Cyber Security 2018. \[[pdf](https://osf.io/xpwfe/)\] \[[blog](https://twosixtech.com/visualizing-automatically-detected-periodic-network-activity/)\]
 
-Robert Gove. "It Pays to Be Lazy: Reusing Force Approximations to Compute Better Graph Layouts." Forum Media Technology 2018, best paper award. \[[pdf](https://osf.io/wgzn5/)\] \[[osf](https://osf.io/re7nx/)\] \[[blog](https://twosixtech.com/faster-force-directed-graph-layouts-by-reusing-force-approximations/)\]
+Robert Gove. "It Pays to Be Lazy: Reusing Force Approximations to Compute Better Graph Layouts." Forum Media Technology 2018, **best paper award**. \[[pdf](https://osf.io/wgzn5/)\] \[[osf](https://osf.io/re7nx/)\] \[[blog](https://twosixtech.com/faster-force-directed-graph-layouts-by-reusing-force-approximations/)\]
 
 Robert Gove. "V3SPA: A Visual Analysis, Exploration, and Diffing Tool for SELinux and SEAndroid Security Policies." Visualization for Cyber Security 2016. \[[pdf](https://osf.io/64ubj/)\] \[[blog](https://twosixtech.com/v3spa-an-open-source-tool-for-visually-analyzing-and-diffing-selinuxse-for-android-security-policies/)\]
 
@@ -56,7 +56,7 @@ Robert Gove and Lauren Deason. "Visualizing Automatically Detected Periodic Acti
 
 # Posters and demos
 
-Violet Lingenfelter, Robert Gove, Chase Clark, Anthony Wong. "Arcus Internet Disruption Dashboard and Report." Visualization for Cyber Security 2020, best poster award.
+Violet Lingenfelter, Robert Gove, Chase Clark, Anthony Wong. "Arcus Internet Disruption Dashboard and Report." Visualization for Cyber Security 2020, **best poster award**.
 
 Robert Gove. "A Survey of Technical Approaches for Developing, Deploying, and Adopting Visualizations in the Cybersecurity Domain." Visualization for Cyber Security 2017.
 
