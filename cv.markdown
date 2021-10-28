@@ -21,7 +21,8 @@ tools for analysts.
 performance over current state-of-the-art algorithms.
 - Implemented visual analytic tools in HTML/CSS, D3, Svelte, AngularJS, Python, MongoDB, and Docker.
 - Designed and conducted evaluations to evaluate efficacy of user interfaces and visualizations.
-- Published papers and presentations at conferences such as EuroVis, VizSec, and Black Hat.
+- Published papers and presented at conferences such as EuroVis, VizSec, and Black Hat.
+
 <h4>Analytic Tool Developer - Booz Allen Hamilton: <span class="subheader">June 2011 - Dec 2013</span></h4>
 - Designed and implemented novel data visualizations of uncertain project schedules using Flex.
 Wrote research report and presented results at IEEE VIS.
@@ -43,11 +44,11 @@ Implemented solutions using D3, jQuery, JavaScript, and Flex.
 
 <h3>Skills</h3>
 
-**Software:** Git, Rollup, Docker, Sketch
+**Software:** Git, Rollup, Docker, Elasticsearch, MongoDB, Sketch, Chrome Developer Tools
 
 **Languages:** HTML, CSS, JavaScript, Python, SQL
 
-**Frameworks:** D3, Svelte, React, AngularJS, NodeJS, Express, Tornado
+**Frameworks:** D3, Svelte, Flask, Sklearn, React, AngularJS, NodeJS, Express
 
 <h3>Honors and Awards</h3>
 
