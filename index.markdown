@@ -8,7 +8,7 @@ layout: default
 
 # About Me
 
-I am a Distinguished Data Visualization Scientist at [Two Six Technologies](https://www.twosixtech.com).
+I am a Distinguished Data Visualization Scientist at [Two Six Technologies](https://www.twosixtech.com). There I design and develop visual analytic tools primarily for cyber security analysts.
 
 I enjoy R&D in the areas of graph visualization, high-dimensional visualization, and machine learning applied to visualization. I've published several [papers](/publications/) about [projects](/projects/) on these and other topics, and I've released some of those projects [open source](https://www.github.com/rpgove).
 
