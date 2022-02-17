@@ -46,7 +46,7 @@ Implemented solutions using D3, jQuery, JavaScript, and Flex.
 
 **Software:** Git, Rollup, Docker, Elasticsearch, MongoDB, Sketch, Chrome Developer Tools
 
-**Languages:** HTML, CSS, JavaScript, Python, SQL
+**Languages:** HTML, CSS, JavaScript, Sass, Python, SQL
 
 **Frameworks:** D3, Svelte, Flask, Sklearn, React, AngularJS, NodeJS, Express
 
