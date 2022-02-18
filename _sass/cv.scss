@@ -1,12 +1,13 @@
 .cv {
-  h1, h2 {
-    color: #111;
+  h1 {
+    color: #333;
     margin: 0;
-    font-weight: normal;
   }
 
   h2 {
+    color: #111;
     font-size: 16px;
+    font-weight: normal;
     margin: 0 0 15px 0;
   }
 
@@ -32,12 +33,11 @@
     margin: 0;
   }
 
-  h3 + p {
-    margin: 8px 0 0 0;
+  h3 + p, h3 + h4, ul {
+    margin: 4px 0 0 0;
   }
 
   ul {
-    margin: 4px 0 0 0;
     padding-inline-start: 20px;
   }
 
@@ -47,8 +47,13 @@
 }
 
 @media print {
+  @page {
+    margin: 1in;
+  }
+
   body {
     background: #fff;
+    font-size: 11pt;
   }
 
   nav {
@@ -62,7 +67,26 @@
     padding: 0;
   }
 
-  .pdf-download {
-    display: none;
+  .cv {
+    h1 {
+      font-size: 15pt;
+      font-weight: bold;
+    }
+
+    h2 {
+      font-size: 11pt;
+    }
+
+    h3 {
+      font-size: 14pt;
+    }
+
+    h4 {
+      font-size: 11pt;
+    }
+
+    .pdf-download {
+      display: none;
+    }
   }
 }
