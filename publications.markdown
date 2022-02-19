@@ -20,6 +20,8 @@ Miranda K Hayworth, Nels G Johnson, Matthew E Wilhelm, Robert P Gove, Jackie D M
 
 # Conference papers
 
+Nathan Danneman and Robert Gove. "Tuning Automatic Summarization for Incident Report Visualization." PacificVis 2022.
+
 Casey Haber and Robert Gove. "A Visualization Tool for Analyzing the Suitability of Software Libraries via Their Code Repositories." Visualization and Data Analysis 2020, **best paper award**. \[[pdf](https://osf.io/j28ev/)\] \[[blog](https://twosixtech.com/choosing-open-source-libraries-and-analyzing-risks/)\]
 
 Robert Gove. "Force-Directed Graph Layouts by Edge Sampling." Large Data Analytics and Visualization 2019. \[[pdf](https://osf.io/6q7ck/)\] \[[osf](https://osf.io/4ja29/)\]
