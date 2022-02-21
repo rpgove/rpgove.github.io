@@ -1,5 +1,5 @@
 ---
-title: Personal Site
+title: Data visualization, research, and engineering
 layout: default
 ---
 
