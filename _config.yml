@@ -21,13 +21,17 @@
 title: Robert Gove
 email: rpgove@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  I am a Distinguished Data Visualization Scientist at Two Six
+  Technologies. I design and develop visual analytic tools primarily
+  for cyber security analysts.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rpgove.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rpgove
 github_username:  rpgove
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:name
 
 # Build settings
 #theme: minima
