@@ -6,7 +6,7 @@ permalink: /publications/
 
 # Journal articles
 
-Robert Gove. "Automatic Narrative Summarization for Visualizing Cyber Security Logs and Incident Reports." IEEE Transactions on Visualization and Computer Graphics 2022 (proc. VizSec 2021, **best paper award**). \[[pdf](https://osf.io/q5t79/)\] \[[osf](https://osf.io/ekzbp/)\]
+Robert Gove. "Automatic Narrative Summarization for Visualizing Cyber Security Logs and Incident Reports." IEEE Transactions on Visualization and Computer Graphics 2022 (proc. VizSec 2021, **best paper award**). \[[pdf](https://osf.io/q5t79/)\] \[[osf](https://osf.io/ekzbp/)\] \[[blog](https://twosixtech.com/how-to-automatically-summarize-cyber-narratives/)\]
 
 Robert Gove. "A Random Sampling O(n) Force-calculation Algorithm for Graph Layouts." Computer Graphics Forum 2019 (proc. EuroVis). \[[pdf](https://osf.io/2vpe4/)\] \[[osf](https://osf.io/nb7m8/)\] \[[blog](https://twosixtech.com/graph-layout-by-random-vertex-sampling/)\]
 
@@ -53,6 +53,10 @@ Robert Gove and Jorge Faytong. "Machine learning and event-based software testin
 Robert Gove, Jorge Faytong. "Identifying infeasible GUI test cases using support vector machines and induced grammars." International Workshop on TESTing Techniques and Experimentation Benchmarks for Event-Driven Software 2011.
 
 # Presentations
+
+Robert Gove and Nathan Danneman. "Automatic Summarization and Visualization of Incident Reports." Conference on Applied Machine Learning for Information Security 2020.
+
+Emily Gray, Chae Clark, and Robert Gove. "Automatic Cyber Attack Campaign Detection Using Network Traffic Data." Conference on Applied Machine Learning for Information Security 2020.
 
 Robert Gove and Lauren Deason. "Visualizing Automatically Detected Periodic Activity." Malware Technical Exchange Meeting 2019.
 
