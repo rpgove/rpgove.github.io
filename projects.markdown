@@ -8,7 +8,7 @@ permalink: /projects/
 
 {% for proj in site.projects reversed %}
   {% capture base_image_path %}/assets/images{{ proj.url }}{% endcapture %}
-  {% capture thumbnail_basename %}{{ proj.images[0] | replace: ".png", "" }}{% endcapture %}
+  {% capture thumbnail_basename %}{{ proj.images | first | replace: ".png", "" }}{% endcapture %}
   <article class="project-block">
     <a class="project-link" href="{{ proj.url }}">
       <span>Open</span>

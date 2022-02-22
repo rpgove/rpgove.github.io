@@ -4,6 +4,13 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/assets/favicon/site.webmanifest">
+
+    {% capture social_snippet_image_path %}{% if page.images %}https://www.rpgove.com/assets/images{{ page.url }}/{{ page.images | first }}{% else %}https://www.rpgove.com/assets/images/dc-metro-min.png{% endif %}{% endcapture %}
+
     <title>{{ site.title }} - {{ page.title }}</title>
     <meta name="description" content="Design and development of visual analytic tools for graph visualization, high-dimensional visualization, and machine learning applied to visualization.">
 
@@ -18,10 +25,11 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta property="twitter:domain" content="rpgove.com">
     <meta property="twitter:url" content="https://www.rpgove.com/">
-    <meta name="twitter:creator" content="@rpgove" />
+    <meta name="twitter:site" content="@rpgove">
+    <meta name="twitter:creator" content="@rpgove">
     <meta name="twitter:title" content="{{ site.title }} - {{ page.title }}">
     <meta name="twitter:description" content="Design and development of visual analytic tools for graph visualization, high-dimensional visualization, and machine learning applied to visualization.">
-    <meta name="twitter:image" content="https://www.rpgove.com/assets/images/dc-metro-min.svg">
+    <meta name="twitter:image" content="{{ social_snippet_image_path }}">
 
     <link rel="stylesheet" href="/assets/css/styles.css">
   </head>
