@@ -140,12 +140,12 @@ main {
     margin: 0;
 
     h2 {
-      background-color: rgba(245, 245, 245, 0.3);
-      border-left: 2px solid rgba(220, 220, 220, 0.3);
+      background-color: rgba(245, 245, 245, 0.5);
+      border-left: 2px solid rgba(220, 220, 220, 0.5);
       color: #567;
       display: block;
-      font-size: clamp(10px, 4vw, 28px);
-      font-weight: normal;
+      font-size: clamp(8px, 2.5vw, 16px);
+      font-weight: bold;
       line-height: 1.4;
       margin: 0;
       overflow: hidden;
@@ -156,6 +156,14 @@ main {
       transition-delay: 0s;
       width: calc(100% - 14px);
       height: calc(100% - 12px);
+
+      small {
+        color: #222;
+        display: block;
+        font-size: max(8px, 80%);
+        font-weight: normal;
+        line-height: 1.2;
+      }
     }
   }
 }
@@ -166,7 +174,7 @@ main {
   }
 
   .project-title h2 {
-    background-color: rgba(250, 250, 250, 0.8);
+    background-color: rgba(250, 250, 250, 0.9);
   }
 }
 

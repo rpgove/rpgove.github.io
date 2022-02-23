@@ -1,6 +1,7 @@
 ---
 layout: project
 title: GitHub Dashboard for Analyzing Repo Health and Suitability
+subtitle: We designed and prototyped a GitHub dashboard to analyze repositories' maintenance history and technology used.
 date: 2020-01-30
 images:
   - singlebig-no-annotation.png

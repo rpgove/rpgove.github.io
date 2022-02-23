@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Interactive Visualization of Periodic Network Activity
+subtitle: A threat hunting tool for identifying malicious network traffic via periodic signals.
 date: 2018-10-22
 images:
   - increasing-periodicity-subset.png

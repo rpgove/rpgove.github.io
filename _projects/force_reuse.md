@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Faster Graph Layouts by Reusing Force Approximations
+subtitle: The d3-force-reuse D3.js module speeds up D3's graph layout algorithm by reusing the Barnes-Hut approximation.
 date: 2018-11-18
 images:
   - speed-comparison.png

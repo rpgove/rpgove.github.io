@@ -1,6 +1,7 @@
 ---
 layout: project
 title: Narrative Summarization for Dynamic Graphs and Cyber Logs
+subtitle: An algorithm for extracting key nodes, branches, and components from dynamic graphs.
 date: 2021-10-27
 images:
   - summarize-jean.png
