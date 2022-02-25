@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Beer Across America
-subtitle: Interactive map exploring trends in breweries, brewpubs, homebrew stores, beer bars, and beer stores across America.
+subtitle: Interactive map exploring breweries, brewpubs, homebrew stores, beer bars, and beer stores in America.
 date: 2014-04-05
 images:
   - beermapping.png

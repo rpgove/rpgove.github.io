@@ -1,6 +1,6 @@
 ---
 layout: project
-title: "Greadability.js: Graph Readability Metrics Library"
+title: "Greadability.js: Graph Readability Library"
 subtitle: "Greadability.js is a JavaScript library for calculating readability metrics on graph layouts."
 date: 2018-06-30
 images:

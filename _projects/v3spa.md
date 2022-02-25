@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Analyzing and Diffing SELinux/SE for Android Security Policies
+title: Analyzing and Diffing Security Policies
 subtitle: Using visual analytics to understand SELinux security policy structure and differences between policy versions.
 date: 2016-10-24
 images:

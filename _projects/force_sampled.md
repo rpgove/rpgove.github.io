@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Linear-time Graph Layouts by Random Sampling
+title: O(n) Random Sampling Graph Layouts
 subtitle: d3-force-sampled is a D3.js module that drastically speeds up graph layouts by using random sampling.
 date: 2019-05-20
 images:

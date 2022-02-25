@@ -23,7 +23,8 @@ permalink: /projects/
       >
     </a>
     <a class="project-title" href="{{ proj.url }}">
-      <h2>{{ proj.title }}<small>{{ proj.subtitle }}</small></h2>
+      <h2>{{ proj.title }}</h2>
+      <p>{{ proj.subtitle }}</p>
     </a>
   </article>
 {% endfor %}
