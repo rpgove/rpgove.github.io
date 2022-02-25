@@ -7,7 +7,7 @@ permalink: /cv/
 <p class="pdf-download"><a href="/assets/pdf/cv.pdf">Download a PDF copy</a></p>
 
 <h1>Robert Gove</h1>
-<h2>rpgove@gmail.com &middot; www.rpgove.com &middot; github.com/rpgove</h2>
+<h2>rpgove@gmail.com &middot; www.rpgove.com &middot; github.com/rpgove &middot; bl.ocks.org/rpgove</h2>
 
 <h3>Skills</h3>
 
@@ -18,8 +18,8 @@ permalink: /cv/
 **Frameworks:** D3, Svelte, Flask, Sklearn, React, AngularJS, NodeJS, Express
 
 <h3>Experience</h3>
-<h4>Distinguished Data Visualization Scientist - Two Six Technologies: <span class="subheader">Dec 2013 - Present</span></h4>
-- Performed as PI, tech lead, and front end engineer on several R&D programs. Set direction for technical efforts, managed project schedule, performed customer briefings, and created progress reports.
+<h4>Distinguished Data Visualization Engineer - Two Six Technologies: <span class="subheader">Dec 2013 - Present</span></h4>
+- Performed as PI, tech lead, and front end engineer on numerous projects. Set direction for technical efforts, managed project schedule, performed customer briefings, and mentored junior staff.
 - Designed a cyber security incident report timeline visualization tool, gathered user feedback, and developed a summarization algorithm that reduces data size 79% and increases precision 41% (JS/HTML/CSS, D3, Flask, Python). VizSec Best Paper Award; TVCG and PacificVis papers.
 - Led a team of four data scientists to develop a system that increases t-SNE embedding accuracy 8% by predicting optimal t-SNE hyperparameters for a given data set (Python, sklearn, Pandas, Jupyter).
 - Performed requirements gathering, created mockups, conducted user feedback sessions, and managed a front end engineer to develop a Chrome plugin and GitHub dashboard for analyzing code repository risks. VDA Best Paper Award.
