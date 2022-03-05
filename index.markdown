@@ -1,13 +1,13 @@
 ---
-title: Data visualization, research, and engineering
+title: Data visualization, innovation, and engineering
 layout: default
 ---
 
 # About Me
 
-I am a Distinguished Data Visualization Scientist at [Two Six Technologies](https://www.twosixtech.com). There I design and develop visual analytic tools primarily for cyber security analysts.
+I am a data visualization engineer at [Two Six Technologies](https://www.twosixtech.com). There I design and develop visual analytic tools, primarily for cyber security analysts.
 
-I enjoy R&D in the areas of graph visualization, high-dimensional visualization, and machine learning applied to visualization. I've published several [papers](/publications/) about [projects](/projects/) on these and other topics, and I've released some of those projects [open source](https://www.github.com/rpgove).
+I enjoy designing and developing innovative data analysis tools. Most recently I've worked in the areas of data summarization, graph visualization, high-dimensional visualization, and machine learning for optimizing visualizations. I've published several [blog posts](/blogs/) and [papers](/publications/) about [projects](/projects/) on these and other topics. I've released some of those projects open source, which you can find on [GitHub](https://github.com/rpgove).
 
 When I retire I plan to open a bakery with an adjoining yoga studio, which I will call Om Nom Nomaste.
 
