@@ -4,8 +4,8 @@ title: Narrative Summarization for Dynamic Graphs
 subtitle: An algorithm for extracting key nodes, branches, and components from dynamic graphs.
 date: 2021-10-27
 images:
-  - summarize-jean.png
   - unsummarized-summarized-story.png
+  - summarize-jean.png
 ---
 
 We have many ways to visualize network logs, social networks, and dynamic graphs in general, but we lack effective ways to provide overviews and summaries of complex timelines. This is troublesome for analysts who need to examine complex network logs and intrusion detection alerts to look for malicious activity. To address this, I converted network logs into dynamic graphs, and then I developed an algorithm to summarize the main sequence of events and most important elements in the graph. The summarization works analogously to the way you might summarize a book: give higher importance to components, narrative branches, and nodes based criteria such as duration of occurrence, occurrence frequency, number of relationships, importance of relationships, and number of nodes. Then filter out components, branches, and nodes whose average scores are below the threshold, which can be set by users or automatically from historical analysis. On intrusion detection alerts this substantially reduced their size and complexity while improving precision compared to ground truth. I also tested this on the Les Misérables character interaction graph and got results surprisingly close to human-generated summaries from SparkNotes and CliffsNotes.
