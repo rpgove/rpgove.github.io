@@ -6,6 +6,8 @@ permalink: /publications/
 
 # Journal articles
 
+Robert Gove, Lucas Cadalzo, Nicholas Leiby, Jedediah M. Singer, Alexander Zaitzeff. "New Guidance for Using t-SNE: Alternative Defaults, Hyperparameter Selection Automation, and Comparative Evaluation." Journal of Visual Informatics (proc. Visualization Meets AI 2022). \[[pdf](https://osf.io/6t5ax/)\]
+
 Robert Gove. "Automatic Narrative Summarization for Visualizing Cyber Security Logs and Incident Reports." IEEE Transactions on Visualization and Computer Graphics 2022 (proc. VizSec 2021, **best paper award**). \[[pdf](https://osf.io/q5t79/)\] \[[osf](https://osf.io/ekzbp/)\] \[[blog](https://twosixtech.com/how-to-automatically-summarize-cyber-narratives/)\]
 
 Robert Gove. "A Random Sampling O(n) Force-calculation Algorithm for Graph Layouts." Computer Graphics Forum 2019 (proc. EuroVis). \[[pdf](https://osf.io/2vpe4/)\] \[[osf](https://osf.io/nb7m8/)\] \[[blog](https://twosixtech.com/graph-layout-by-random-vertex-sampling/)\]
