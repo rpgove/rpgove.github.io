@@ -18,7 +18,7 @@ I then collaborated with a data scientist to try to improve the summaries for ne
 
 ## Papers
 
-Nathan Danneman and Robert Gove. "Tuning Automatic Summarization for Incident Report Visualization." PacificVis 2022.
+Nathan Danneman and Robert Gove. "Tuning Automatic Summarization for Incident Report Visualization." PacificVis 2022. \[[pdf](https://osf.io/4ytec)\]
 
 Robert Gove. "Automatic Narrative Summarization for Visualizing Cyber Security Logs and Incident Reports." IEEE Transactions on Visualization and Computer Graphics 2022 (proc. VizSec 2021, **best paper award**). \[[pdf](https://osf.io/q5t79/)\] \[[osf](https://osf.io/ekzbp/)\]
 
