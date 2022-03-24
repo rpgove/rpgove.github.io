@@ -6,6 +6,8 @@ permalink: /blogs/
 
 # Blog posts
 
+"New Guidance for Using t-SNE" [Two Six Technologies blog](https://twosixtech.com/new-guidance-for-using-t-sne/)
+
 "Choosing Open Source Libraries and Analyzing Risks" [Two Six Technologies blog](https://twosixtech.com/choosing-open-source-libraries-and-analyzing-risks/)
 
 "Graph Layout by Random Vertex Sampling" [Two Six Technologies blog](https://twosixtech.com/graph-layout-by-random-vertex-sampling/)
