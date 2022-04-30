@@ -20,11 +20,11 @@ permalink: /cv/
 <h3>Experience</h3>
 <h4>Distinguished Data Visualization Engineer - Two Six Technologies: <span class="subheader">Dec 2013 - Present</span></h4>
 - Performed as PI, tech lead, and front end engineer on numerous projects. Set direction for technical efforts, managed project schedule, performed customer briefings, and mentored junior staff.
-- Designed a cyber security incident report timeline visualization tool, gathered user feedback, and developed a summarization algorithm that reduces data size 79% and increases precision 41% (JS/HTML/CSS, D3, Flask, Python). VizSec Best Paper Award; TVCG and PacificVis papers.
+- Designed a cyber security incident report timeline visualization tool, gathered user feedback, and developed a summarization algorithm that reduces data size 79% and increases precision 41% (JS/HTML/CSS, D3, Flask, Python).
 - Led a machine learning research team to develop a system that increases t-SNE embedding accuracy 8% by predicting optimal t-SNE hyperparameters for a given data set (Python, sklearn, Pandas, Jupyter).
-- Performed requirements gathering, created mockups, conducted user feedback sessions, and managed a front end engineer to develop a Chrome plugin and GitHub dashboard for analyzing code repository risks. VDA Best Paper Award.
-- Designed and evaluated novel graph layout algorithms that reduced runtime 18% - 76% using dynamic approximation updates and random sampling (JS, D3). FMT Best Paper Award; EuroVis paper.
-- Developed a graph exploration tool using a rank-by-feature framework, reduced graph featurization time to O(n), and sped up rendering by using tile pyramids (JS/HTML/CSS/SASS, D3, Leaflet, AngularJS, Python, NetworkX, MongoDB, Docker). IV Best Paper Award.
+- Performed requirements gathering, created mockups, conducted user feedback sessions, and managed a front end engineer to develop a Chrome plugin and GitHub dashboard for analyzing code repository risks.
+- Designed and evaluated novel graph layout algorithms that reduced runtime 18% - 76% using dynamic approximation updates and random sampling (JS, D3).
+- Developed a graph exploration tool using a rank-by-feature framework, reduced graph featurization time to O(n), and sped up rendering by using tile pyramids (JS/HTML/CSS/SASS, D3, Leaflet, AngularJS, Python, NetworkX, MongoDB, Docker).
 
 <h4>Analytic Tool Developer - Booz Allen Hamilton: <span class="subheader">June 2011 - Dec 2013</span></h4>
 - Designed and implemented novel data visualizations of uncertain project schedules using Flex.
