@@ -76,6 +76,7 @@ Robert Gove, Giacomo Bergamo, Joshua Saxe, Alex Long, Sigried Gold. "Cynomix: Mu
 
 # Invited Talks
 
+- "Narrative Visualization and Summarization for Cyber Security Logs and Incident Reports" - Guest lecture for graduate-level Data Visualization class @ Northeastern University April 21, 2022
 - Panelist on Careers in Mathematical Sciences for REUs @ VCU July 16, 2021
 - "Big graph visualization on a small-scale budget" - Lunch-and-learn talk @ Uncharted Software May 18, 2021
 - "By Our Powers Combined, We Are Data Science! The Mutual Support of Visualization and Analysis Automation" - Guest lecture for graduate-level Data Visualization class @ USF Nov 16, 2020
