@@ -22,7 +22,7 @@ Miranda K Hayworth, Nels G Johnson, Matthew E Wilhelm, Robert P Gove, Jackie D M
 
 # Conference papers
 
-Nathan Danneman and Robert Gove. "Tuning Automatic Summarization for Incident Report Visualization." PacificVis 2022. \[[pdf](https://osf.io/4ytec)\]
+Nathan Danneman and Robert Gove. "Tuning Automatic Summarization for Incident Report Visualization." PacificVis 2022, pp. 191-195. \[[pdf](https://osf.io/4ytec)\]
 
 Casey Haber and Robert Gove. "A Visualization Tool for Analyzing the Suitability of Software Libraries via Their Code Repositories." Visualization and Data Analysis 2020, **best paper award**. \[[pdf](https://osf.io/j28ev/)\] \[[blog](https://twosixtech.com/choosing-open-source-libraries-and-analyzing-risks/)\]
 
@@ -46,7 +46,7 @@ Robert Gove, Cody Dunne, Ben Shneiderman, Judith Klavans, Bonnie Dorr. "Evaluati
 
 # Book chapters
 
-Robert Gove. "Gragnostics: Evaluating Fast, Interpretable Structural Graph Features for Classification and Visual Analytics" to appear in Integrating AI and Visualisation for Visual Knowledge Discovery, in the series Studies in Computational Intelligence.
+Robert Gove. "Gragnostics: Evaluating Fast, Interpretable Structural Graph Features for Classification and Visual Analytics" In: Kovalerchuk, B., Nazemi, K., Andonie, R., Datia, N., Banissi, E. (eds) Integrating Artificial Intelligence and Visualization for Visual Knowledge Discovery. Studies in Computational Intelligence, vol 1014, pp. 311-336.
 
 Robert Gove and Jorge Faytong. "Machine learning and event-based software testing: classifiers for identifying infeasible GUI event sequences." Advances in Computers 86.
 
