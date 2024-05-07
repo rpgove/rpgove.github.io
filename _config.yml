@@ -21,9 +21,9 @@
 title: Robert Gove
 email: rpgove@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a Distinguished Data Visualization Scientist at Two Six
-  Technologies. I design and develop visual analytic tools primarily
-  for cyber security analysts.
+  I am a Senior Data Visualization Scientist at CrowdStrike.
+  I design and develop visual analytic tools for cyber security
+  analysts.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://rpgove.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rpgove
