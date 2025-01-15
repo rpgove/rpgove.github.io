@@ -18,10 +18,10 @@ permalink: /cv/
 **Frameworks:** D3, Svelte, Flask, Sklearn, React, AngularJS, NodeJS, Express
 
 <h3>Experience</h3>
-<h4>Senior Data Visualization Engineer - CrowdStrike
-<span class="subheader">June 2022 - Present</span></h4>
-- Engineered scalable UI solutions to analyze data sets with millions of events.
-- Designed internal and external customer-facing UIs in collaboration with cyber security analysts.
+<h4>Senior Data Visualization Engineer II - CrowdStrike: <span class="subheader">June 2022 - Present</span></h4>
+- Collaborated with cyber security analysts to design internal and external customer-facing UIs.
+- Identified performance bottlenecks and reengineered full stack applications  to achieve order-of-magnitude performance improvements.
+- Engineered a scalable framework for generating animated data videos of 100k+ events.
 
 <h4>Distinguished Data Visualization Engineer - Two Six Technologies: <span class="subheader">Dec 2013 - May 2022</span></h4>
 - Performed as PI, tech lead, and front end engineer on numerous projects. Set direction for technical efforts, managed project schedule, performed customer briefings, and mentored junior staff.
@@ -32,18 +32,16 @@ permalink: /cv/
 - Developed a graph exploration tool using a rank-by-feature framework, reduced graph featurization time to O(n), and sped up rendering by using tile pyramids (JS/HTML/CSS/SASS, D3, Leaflet, AngularJS, Python, NetworkX, MongoDB, Docker).
 
 <h4>Analytic Tool Developer - Booz Allen Hamilton: <span class="subheader">June 2011 - Dec 2013</span></h4>
-- Designed and implemented novel schedule visualizations.
-- Led teams of developers to design, prototype, implement, test, and deploy tools to government clients to analyze communication networks, aircrew readiness, and emergency planning.
-- Consulted with internal and external clients to gather requirements and iteratively design user interfaces.
+- Designed and implemented novel visualizations to show probabilities of possible schedule outcomes.
+- Led teams of developers to gather requirements and design, prototype, implement, test, and deploy tools to government clients to analyze communication networks, aircrew readiness, and emergency planning.
 - Received five awards for producing exceptional project deliverables and presentations.
 
 <h3>Education</h3>
 <h4>University of Maryland, College Park: <span class="subheader">May 2011</span></h4>
-<p>M.S. in Computer Science, Information Visualization concentration</p>
-<p>Thesis: Usability evaluation of Action Science Explorer. Advisor: Dr. Ben Shneiderman.</p>
+<p>M.S. in Computer Science</p>
+<p>Thesis: Usability evaluation of visual bibliography exploration. Advisor: Dr. Ben Shneiderman.</p>
 <h4>University of North Carolina at Greensboro: <span class="subheader">May 2009</span></h4>
-<p>B.S. in Computer Science and Applied Math (dual degree); Spanish Minor</p>
-<p>Disciplinary honors thesis: "Evolutionary Computation: Optimizing Resource Allocation in A. lyrata"</p>
+<p>B.S. in Computer Science and Applied Math (dual degree); Spanish Minor; Disciplinary honors</p>
 
 <h3>Honors and Awards</h3>
 
@@ -55,7 +53,8 @@ Best Poster Award (VizSec 2020)
 - Dynamic updates to force-approximation models—USPTO #11087048
 - Fast, human interpretable graph comparison features—USPTO #US10657686
 - Linear-time graph embedding algorithm—USPTO #US10565749
+- Internet disruption detection-USPTO #US11706078
+- Software repository recommendation engine-USPTO #US11487538
 
 <h3>Service</h3>
-- VizSec: Steering Committee 2019 - 2023, General Chair 2019, Sponsorship Chair 2017-2018, Program Committee 2015 - 2023
-- Conference reviewer: InfoVis (2016, 2019-2020), VAST (2016-2017, 2019-2020), EuroVis (2016, 2018-2019)
+- VizSec: Steering Committee 2019-2023, General Chair 2019, Sponsorship Chair 2017-2018, Program Committee 2015-2023
