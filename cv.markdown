@@ -53,8 +53,8 @@ Best Poster Award (VizSec 2020)
 - Dynamic updates to force-approximation models—USPTO #11087048
 - Fast, human interpretable graph comparison features—USPTO #US10657686
 - Linear-time graph embedding algorithm—USPTO #US10565749
-- Internet disruption detection-USPTO #US11706078
-- Software repository recommendation engine-USPTO #US11487538
+- Internet disruption detection—USPTO #US11706078
+- Software repository recommendation engine—USPTO #US11487538
 
 <h3>Service</h3>
 - VizSec: Steering Committee 2019-2023, General Chair 2019, Sponsorship Chair 2017-2018, Program Committee 2015-2023
