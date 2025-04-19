@@ -56,6 +56,8 @@ Robert Gove, Jorge Faytong. "Identifying infeasible GUI test cases using support
 
 # Presentations
 
+Robert Gove. "Big Data on a Small Budget: Scalable Data Visualization for the Rest of Us." All Things Open 2024.
+
 Robert Gove and Nathan Danneman. "Automatic Summarization and Visualization of Incident Reports." Conference on Applied Machine Learning for Information Security 2020.
 
 Emily Gray, Chae Clark, and Robert Gove. "Automatic Cyber Attack Campaign Detection Using Network Traffic Data." Conference on Applied Machine Learning for Information Security 2020.
