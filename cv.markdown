@@ -50,6 +50,7 @@ Best Paper Awards (VizSec 2021, VDA 2020, IV 2019, FMT 2018)
 Best Poster Award (VizSec 2020)
 
 <h3>Patents</h3>
+- Automatic incident report summarization—USPTO #12289324
 - Dynamic updates to force-approximation models—USPTO #11087048
 - Fast, human interpretable graph comparison features—USPTO #US10657686
 - Linear-time graph embedding algorithm—USPTO #US10565749
